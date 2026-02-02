@@ -22,7 +22,7 @@ This repository contains the source code for the **EtenitySleep** mobile app bui
 |----------|------------|
 | Framework | React Native |
 | Language | JavaScript |
-| State Management | (e.g., Redux / Context API) |
+| State Management |  Redux / Context API |
 | Navigation | React Navigation |
 | Storage | AsyncStorage or SQLite |
 | UI | React Native Elements / Tailwind / etc. |
