@@ -8,9 +8,9 @@ This repository contains the source code for the **EtenitySleep** mobile app bui
 
 ## 📌 Features
 
-- 🛌 Track sleep duration and quality  
-- 📊 View weekly/monthly sleep statistics  
-- ⏰ Set sleep/wake reminders  
+-  provides high qaulity ambience sounds  
+-  View weekly/monthly sleep statistics  
+-  set the ambience by mixing different sounds to create a perfect blend 
 - 🌙 Dark & light theme support  
 - 🔔 Push notifications for goals & reminders  
 
@@ -43,5 +43,8 @@ cd etenitysleep-mobile-app
 
 # Install dependencies
 npm install
+npx expo start
 # or
 yarn install
+
+use mobile app -- expo go to get best results
