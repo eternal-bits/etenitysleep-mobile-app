@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # EtenitySleep Mobile App
 
 A cross-platform mobile application for tracking and improving sleep quality.
@@ -5,6 +7,10 @@ A cross-platform mobile application for tracking and improving sleep quality.
 This repository contains the source code for the **EtenitySleep** mobile app built using **React Native**. The app helps users monitor sleep patterns, view statistics and insights, and create healthy sleep routines.
 
 ---
+## 📄 License
+
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
 
 ## 📌 Features
 
