@@ -17,8 +17,8 @@ See the [LICENSE](LICENSE) file for details.
 -  provides high qaulity ambience sounds  
 -  View weekly/monthly sleep statistics  
 -  set the ambience by mixing different sounds to create a perfect blend 
-- 🌙 Dark & light theme support  
-- 🔔 Push notifications for goals & reminders  
+-  Dark & light theme support  
+-  Push notifications for goals & reminders  
 
 ---
 
